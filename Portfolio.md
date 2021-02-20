@@ -16,7 +16,7 @@ FRIOT 프로젝트는 스마트폰과 WIFI 지원 가능한 마이크로 컨트�
 
 
 
-## Procedure
+## How to Architect
 
 - AWS Facial Rekognition API를 이용해 미리 클라우드에 올려진 팀원들 샘플사진과 앱에서 찍은 사진을 비교해 Similarity 90%가 넘으면 신원 확인이 되도록 설계.
 - Google Speech-To-Text API를 이용해 유저의 목소리를 텍스트로 전환, 그리고 그 데이터를 Google Firebase Realtime Database으로 전송하여 마이크로 컨트롤러 (ESP8266)에 전달.
@@ -27,35 +27,47 @@ FRIOT 프로젝트는 스마트폰과 WIFI 지원 가능한 마이크로 컨트�
 
 ## Design
 
+
+
+#### **i. The Flowchart of Android App**
+
 ![AndroidDesign](img/AndroidDesign.png)
 
-<center>**i. The Flowchat of Android App**</center>
 
 
 
-![MicrocontrollerDesign](img/Microcontroller.png)
 
-<center>**ii. The Flowchat of Microcontroller**</center>
+#### **ii. The Flowchart of Microcontroller**
+
+![MicrocontrollerDesign](img/MicrocontrollerDesign.png)
 
 
+
+
+
+#### **iii. The Flowchart of Entire System**
 
 ![FlowChart](img/FlowChart.png)
 
-<center>**iii. The Flowchat of Entire System**</center>
 
 
+
+
+#### **iv. The Block Diagram**
 
 ![BlockDiagram](img/BlockDiagram.png)
 
-<center>**iV. The Block Diagram**</center>
 
 
 
 
 
-## Presentation and Live Demog
 
-<iframe width="640" height="360" src="https://youtu.be/7liAGbwGvts" frameborder="0" gesture="media" allowfullscreen="" </iframe>
+## Presentation and Live Demo
+
+
+
+<iframe width="806" height="453" src="https://www.youtube.com/embed/7liAGbwGvts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
