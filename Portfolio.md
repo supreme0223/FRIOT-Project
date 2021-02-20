@@ -29,25 +29,25 @@ FRIOT 프로젝트는 스마트폰과 WIFI 지원 가능한 마이크로 컨트�
 
 ![AndroidDesign](img/AndroidDesign.png)
 
-<center>**i. The Flowchat of Android App**</center>
+<center>i. The Flowchat of Android App</center>
 
 
 
-![MicrocontrollerDesign](img/Microcontroller.png)
+![MicrocontrollerDesign](img/MicrocontrollerDesign.png)
 
-<center>**ii. The Flowchat of Microcontroller**</center>
+<center>ii. The Flowchat of Microcontroller</center>
 
 
 
 ![FlowChart](img/FlowChart.png)
 
-<center>**iii. The Flowchat of Entire System**</center>
+<center>iii. The Flowchat of Entire System</center>
 
 
 
 ![BlockDiagram](img/BlockDiagram.png)
 
-<center>**iV. The Block Diagram**</center>
+<center>iV. The Block Diagram</center>
 
 
 
