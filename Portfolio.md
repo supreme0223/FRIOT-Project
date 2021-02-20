@@ -37,6 +37,8 @@ FRIOT 프로젝트는 스마트폰과 WIFI 지원 가능한 마이크로 컨트�
 
 
 
+
+
 #### **ii. The Flowchart of Microcontroller**
 
 ![MicrocontrollerDesign](img/MicrocontrollerDesign.png)
@@ -48,6 +50,8 @@ FRIOT 프로젝트는 스마트폰과 WIFI 지원 가능한 마이크로 컨트�
 #### **iii. The Flowchart of Entire System**
 
 ![FlowChart](img/FlowChart.png)
+
+
 
 
 
@@ -67,9 +71,9 @@ FRIOT 프로젝트는 스마트폰과 WIFI 지원 가능한 마이크로 컨트�
 
 
 
-<iframe width="806" height="453" src="https://www.youtube.com/embed/7liAGbwGvts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7liAGbwGvts/0.jpg)](https://www.youtube.com/watch?v=7liAGbwGvts)
 
-
+**이미지를 클릭하시면 영상이 재생 됩니다.**
 
 
 
